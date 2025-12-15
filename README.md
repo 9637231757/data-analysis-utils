@@ -17,7 +17,7 @@ These projects showcase my skills in **Python-based data analysis**, problem-sol
   * Pandas
   * Matplotlib
   * Seaborn
-* **Version Control:** Git & GitHub
+* **Version Control:** Git & GitHub.
 
 ---
 
